@@ -23,9 +23,9 @@
         "php": "^5.6|^7.0",
 
         "stof/doctrine-extensions-bundle": "~1.1",
-        "sylius/variation": "^0.19",
-        "sylius/resource-bundle": "^0.19",
-        "symfony/framework-bundle": "^2.8"
+        "sylius/variation": "dev-symfony_3_compatibility",
+        "sylius/resource-bundle": "dev-symfony_3_compatibility",
+        "symfony/framework-bundle": "^3.0"
     },
     "require-dev": {
         "phpspec/phpspec": "^2.4",
